@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workforuse&show_icons=true&theme=dark&locale=en" alt="workforuse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workforuse&theme=dark" alt="workforuse" /></p>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workforuse&theme=dark" alt="workforuse" /></p></div>
