@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/originals/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg)
+![Header](https://res.cloudinary.com/practicaldev/image/fetch/s--gMqNFSvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)
 
 <h1 align="center">Hi 👋 ٱلسَّلَامُ عَلَيْكُمْ, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
