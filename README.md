@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*tjHTmF_1SUY6_pykU6_VpQ.gif" alt="Girl in a jacket">
+[<img src="https://miro.medium.com/v2/resize:fit:1400/1*tjHTmF_1SUY6_pykU6_VpQ.gif" alt="Girl in a jacket">](https://cdn.wallpapersafari.com/13/14/XdZGlu.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
