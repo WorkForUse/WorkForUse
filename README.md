@@ -1,6 +1,5 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+<h1 align="center">Hi 👋 ٱلسَّلَامُ عَلَيْكُمْ, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Dart**
@@ -44,8 +43,9 @@
   <img width="12" />
 </div>
 
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workforuse&show_icons=true&locale=en&layout=compact" alt="workforuse" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=workforuse&show_icons=true&locale=en" alt="workforuse" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workforuse&" alt="workforuse" /></div>
+<div align="center">
+   <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workforuse&show_icons=true&locale=en&layout=compact" alt="workforuse" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=workforuse&show_icons=true&locale=en" alt="workforuse" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workforuse&" alt="workforuse" /></p></div>
