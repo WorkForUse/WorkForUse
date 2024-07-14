@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi 👋 ٱلسَّلَامُ عَلَيْكُمْ, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
