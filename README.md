@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=workforuse&label=Profile%20views&color=0cd46d&style=flat" alt="workforuse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=workforuse" alt="workforuse" /></a> </p>
-
 - 🌱 I’m currently learning **Dart**
 
 - 💬 Ask me about **html , css ,js**
