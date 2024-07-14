@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+<h1 align="center">Hi 👋 ٱلسَّلَامُ عَلَيْكُمْ, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Dart**
