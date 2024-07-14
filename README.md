@@ -44,7 +44,7 @@
   <img width="12" />
 </div>
 
-<div align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workforuse&show_icons=true&locale=en&layout=compact" alt="workforuse" /></p>
+<div align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workforuse&show_icons=true&locale=en&layout=compact" alt="workforuse" /></p> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workforuse&show_icons=true&locale=en" alt="workforuse" /></p>
 
